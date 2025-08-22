@@ -1,4 +1,4 @@
-if game.PlaceId == 134881927671827 then     
+if game.PlaceId == 83641551582603 then     
 loadstring(game:HttpGet("https://raw.githubusercontent.com/najsjsksk/Kkkkk/refs/heads/main/a.lua.txt"))()
 end  
 if game.PlaceId == 18192562963 then     
